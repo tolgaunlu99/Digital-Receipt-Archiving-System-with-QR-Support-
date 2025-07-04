@@ -78,6 +78,6 @@ JustinTimePOS bridges the gap between analog expense tracking and digital effici
 ✅ QR system functional  
 🛠 Future updates may include cloud-based database and mobile scanning app.
 
----
+--
 
 **Note:** For full project setup and technical guide, refer to the documentation inside the project archive.
